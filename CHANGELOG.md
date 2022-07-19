@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/release-please?activeTab=versions
 
+## [13.19.4](https://github.com/googleapis/release-please/compare/v13.19.3...v13.19.4) (2022-07-19)
+
+
+### Bug Fixes
+
+* **commits:** remove content before and after BREAKING in body ([#1531](https://github.com/googleapis/release-please/issues/1531)) ([f75e49f](https://github.com/googleapis/release-please/commit/f75e49f6b751347456746d9c4068191d340c8e1e))
+
 ## [13.19.3](https://github.com/googleapis/release-please/compare/v13.19.2...v13.19.3) (2022-07-08)
 
 
